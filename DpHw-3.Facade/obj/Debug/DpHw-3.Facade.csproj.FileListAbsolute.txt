@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\DpHw-3\DpHw-3.Facade\bin\Debug\DpHw-3.Facade.exe.config
+C:\Users\Shipa\source\repos\DpHw-3\DpHw-3.Facade\bin\Debug\DpHw-3.Facade.exe
+C:\Users\Shipa\source\repos\DpHw-3\DpHw-3.Facade\bin\Debug\DpHw-3.Facade.pdb
+C:\Users\Shipa\source\repos\DpHw-3\DpHw-3.Facade\obj\Debug\DpHw-3.Facade.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\DpHw-3\DpHw-3.Facade\obj\Debug\DpHw-3.Facade.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-3\DpHw-3.Facade\obj\Debug\DpHw-3.Facade.exe
+C:\Users\Shipa\source\repos\DpHw-3\DpHw-3.Facade\obj\Debug\DpHw-3.Facade.pdb
